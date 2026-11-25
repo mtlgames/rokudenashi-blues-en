@@ -39,7 +39,7 @@ Known issues: none known; [report one](../../issues/new/choose).
 ## Build your own patched ROM
 
 Needs Python 3.12+, [asar](https://github.com/RPGHacker/asar) in `tools/asar/`, and your own dump of the Japanese game.
-Releases also need the [translate-retro-game](https://github.com/minhnhattonthat/translate-retro-game) skill (Claude
+Releases also need the [translate-retro-game](https://github.com/mtlgames/translate-retro-game) skill (Claude
 Code plugin, or set `SKILL` to its directory).
 
 ```sh
